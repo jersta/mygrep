@@ -1,0 +1,15 @@
+# Binääritiedostot
+*.exe
+*.obj
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.sdf
+
+# VS:n automaattiset kansiot
+.vscode/
+.vs/
+Debug/
+Release/
+ipch/
